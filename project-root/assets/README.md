@@ -6,4 +6,67 @@ To run the project, download and open the website from the GitHub repository. Af
 
 WEBSITE FEATURES: When you drag the mouse cursor to the "All" button and each GenAI tool, the button will enlarge and the image on the specific GenAI tool will spin. The navigation bar will move and transition to transparent as you scroll the pages. Please enjoy my website!!
 
- Framework Used: Bootstrap
+Framework Used: Bootstrap
+
+Deployment Link: 
+
+Screenshots of Website: 
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(641).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(642).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(643).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(644).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(645).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(646).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(647).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(648).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(649).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(650).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(651).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(652).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(653).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(654).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(655).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(656).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(657).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(658).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(659).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(660).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(661).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(662).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(663).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(664).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(665).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(666).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(667).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(668).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(669).png)
+
+![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(670).png)
