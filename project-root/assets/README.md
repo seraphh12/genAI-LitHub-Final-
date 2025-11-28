@@ -4,7 +4,7 @@ The genAI LitHub is an educational website designed to help students, educators,
 
 To run the project, download and open the website from the GitHub repository. After opening the website, you will see the home page. Click the "Learn more on GenAI" button or the "FAQ on GenAI" on the navigation bar at the top to go to the FAQ section page. Click the questions provided on the page to learn and know the frequently asked questions about AI. After checking the FAQ section page, click the "Ethical use of GenAI" on the navbar to proceed to the Ethical use of AI page section. Click each ethic provided on the page to learn and know the ethical use of AI. After checking the FAQ section page, click the "Article" on the navigation bar to proceed to the Analogy page section. The page contains real-life examples of the use of AI in development work and the answer to the question of the statement. Click the "Home" in the navigation bar to go back to the home page. 
 
-WEBSITE FEATURES: When you drag the mouse cursor to the "All" button and each GenAI tool, the button will enlarge and the image on the specific GenAI tool will spin. The navigation bar will move and transition to transparent as you scroll the pages. Please enjoy my website!!
+WEBSITE FEATURES: When you drag the mouse cursor to the "All" button and each GenAI tool, the button will enlarge and the image on the specific GenAI tool will spin. The navigation bar will move and transition to transparent as you scroll the pages. In home page, in the footer part when you drag the mouse cursor to the words or social media button, it will move as well. Please enjoy my website!!
 
 Framework Used: Bootstrap
 
