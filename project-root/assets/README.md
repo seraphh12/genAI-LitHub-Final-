@@ -8,7 +8,7 @@ WEBSITE FEATURES: When you drag the mouse cursor to the "All" button and each Ge
 
 Framework Used: Bootstrap
 
-Deployment Link: 
+Deployment Link: https://app.netlify.com/projects/genai-lithub/deploys/692a46872fd59fd156d024e7
 
 Screenshots of Website: 
 ![image alt](https://github.com/seraphh12/genAI-LitHub-Final-/blob/main/project-root/assets/screenshots/Screenshot%20(641).png)
